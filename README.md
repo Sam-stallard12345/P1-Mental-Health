@@ -8,8 +8,15 @@ By providing accessible, beginner-friendly information on mental health and crea
 
 ![alt text](image.png)
 
+<h2> Features </h2>
+
+<h3> Hero Image and Tagline </h3>
+
+<h3> Articles and Resources Section<h3>
+
+
+
 <h2>Instances of AI Use:</h2>
 <li>ChatGPT for User Stories, Acceptance Criteria and Task List</li>
-<img src="assets/images/Screenshot from 2024-11-11 08-20-13.png" width="200px">
 
 <li>Copilot for Image Generation</li>
