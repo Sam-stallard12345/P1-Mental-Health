@@ -33,3 +33,7 @@ h5 {
 h6 {
     color: #B0E0E6; /* Powder Blue */
 }
+
+#hero {
+    background: url('../images/clearspace_hero.jpeg') no-repeat center center/cover;
+}
