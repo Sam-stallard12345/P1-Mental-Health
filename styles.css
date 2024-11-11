@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&display=swap');
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Merriweather', serif;
+    color: #2E8B57; /* Sea Green */
+}
+
+body {
+    background-color: #E0FFFF; /* Light Cyan */
+    font-family: "Montserrat", sans-serif;
+}
+
+h1 {
+    color: #4682B4; /* Steel Blue */
+}
+
+h2 {
+    color: #5F9EA0; /* Cadet Blue */
+}
+
+h3 {
+    color: #20B2AA; /* Light Sea Green */
+}
+
+h4 {
+    color: #66CDAA; /* Medium Aquamarine */
+}
+
+h5 {
+    color: #8FBC8F; /* Dark Sea Green */
+}
+
+h6 {
+    color: #B0E0E6; /* Powder Blue */
+}
