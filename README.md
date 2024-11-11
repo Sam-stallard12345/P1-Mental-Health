@@ -2,7 +2,7 @@
 
 <h1>ClearSpace</h1>
 
-
+![alt text](image.png)
 
 <h2>Instances of AI Use:</h2>
 <li>ChatGPT for User Stories, Acceptance Criteria and Task List</li>
