@@ -35,5 +35,25 @@ h6 {
 }
 
 #hero {
-    background: url('../images/clearspace_hero.jpeg') no-repeat center center/cover;
+    background: url('../images/clearspace_hero.jpeg') no-repeat center center/ 70%;
+    height: 50vh;
+}
+
+.hero-title {
+    text-align: center;
+    color: #4682B4; /* Medium Aquamarine */
+    font-size: 3em;
+    font-weight: bold;
+    text-shadow: black 2px 2px 2px;
+    
+}
+
+.hero-text {
+    text-align: center;
+    color: #e2d482; /* Medium Aquamarine */
+    font-size: 1.5em;
+    font-weight: bold;
+    padding-top: 40%;
+    text-shadow: black 2px 2px 2px;
+
 }
