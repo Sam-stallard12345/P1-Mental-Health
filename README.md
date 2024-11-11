@@ -14,6 +14,9 @@ By providing accessible, beginner-friendly information on mental health and crea
 
  For the color I chose a calming color palette suitable for mental health (e.g., pastels, blues, and greens).Ensured text met WCAG contrast standards with tools like Contrast Checker and added options for high-contrast themes (optional advanced feature).
 
+Used Iconify to generate the icon
+
+
 <h3> Hero Image and Tagline </h3>
 
 <img src="assets/images/Screenshot from 2024-11-11 10-01-26.png">

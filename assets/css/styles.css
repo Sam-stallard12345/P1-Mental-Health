@@ -53,7 +53,26 @@ h6 {
     color: #e2d482; /* Medium Aquamarine */
     font-size: 1.5em;
     font-weight: bold;
-    padding-top: 40%;
     text-shadow: black 2px 2px 2px;
 
+}
+
+#features {
+    background: #f8ebbf;
+    margin: 60px 0;
+    padding: 0 40px;
+}
+
+#features .card {
+    min-height: 450px;
+}
+
+#features .card img {
+    height: 175px;
+}
+
+#Resources img {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
 }
