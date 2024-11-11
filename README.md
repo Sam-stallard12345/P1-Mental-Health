@@ -10,7 +10,13 @@ By providing accessible, beginner-friendly information on mental health and crea
 
 <h2> Features </h2>
 
+<h3> Color Scheme </h3>#
+
+ For the color I chose a calming color palette suitable for mental health (e.g., pastels, blues, and greens).Ensured text met WCAG contrast standards with tools like Contrast Checker and added options for high-contrast themes (optional advanced feature).
+
 <h3> Hero Image and Tagline </h3>
+
+<img src="assets/images/Screenshot from 2024-11-11 10-01-26.png">
 
 <h3> Articles and Resources Section<h3>
 
