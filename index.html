@@ -30,7 +30,7 @@
   <!-- Navbar -->
   <nav class="navbar navbar-expand-lg bg-body-tertiary">
     <div class="container-fluid">
-      <a class="navbar-brand" href="#">ClearSpace</a>
+      <a class="navbar-brand" href="index.html">ClearSpace</a>
       <br>
       <img src="assets/images/fluent--person-support-24-filled.svg" alt="ClearSpace icon">
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
@@ -75,33 +75,37 @@
 
 
     <div class="row justify-content-center">
-      <!-- Resources Section -->
-      <section id="Resources">
-        <div class="col-12 ps-4">
+      <!-- Contact and Support Section -->
+      <section id="Contact" class="col-10">
+        <div class="ps-4">
           <h2 class="text-center py-5">Contact and Support In an Emergency</h2>
           <div class="row">
-            <div class="col-md-6 col-xl-4 justify-content-center align-items-center">
-              <img src="assets/images/Crisis_Text_Line.jpg" alt="Crisis Text Line">
+            <div class="col-md-6 col-xl-4">
+              <img src="assets/images/Crisis_Text_Line.jpg" alt="Crisis Text Line"><br>
               <p>The Crisis Text Line provides free, 24/7 support for those in crisis. Text with a trained Crisis
                 Counselor to receive immediate help and support.</p>
+                <a href="contact.html"><i class="fa-solid fa-phone"></i>116 123</a>
             </div>
             <div class="col-md-6 col-xl-4">
-              <img src="assets/images/NSPL_Logo.jpg" alt="National Suicide Prevention Line">
+              <img src="assets/images/NSPL_Logo.jpg" alt="National Suicide Prevention Line"><br>
               <p>The National Suicide Prevention Lifeline offers free and confidential support for people in distress,
                 prevention and crisis resources for you or your loved ones, and best practices for professionals.</p>
+                <a href="contact.html"><i class="fa-solid fa-phone"></i>998</a>
             </div>
             <div class="col-md-6 col-xl-4">
-              <img src="assets/images/samaritans.jpeg" alt="Samaritans">
+              <img src="assets/images/samaritans.jpeg" alt="Samaritans"><br>
               <p>Samaritans is a confidential emotional support service for anyone in the UK and Ireland. They are
                 available 24 hours a day to provide support for people who are experiencing feelings of distress or
                 despair.</p>
+                <a href="contact.html"><i class="fa-solid fa-phone"></i>116 123</a>
             </div>
           </div>
         </div>
       </section>
 
-      <!-- Features Section -->
-      <section id="features" class="features col-10 py-5">
+      <!-- Resources Section -->
+      <section id="Resources" class="features col-10 py-5">
+        <h2 class="text-center">Resources</h2>
         <div id="mentalHealthCarousel" class="carousel slide" data-bs-ride="carousel">
           <div class="carousel-inner">
             <div class="carousel-item active">
@@ -111,8 +115,7 @@
                     <img src="assets/images/meditation.jpeg" class="card-img-top" alt="Meditation">
                     <div class="card-body">
                       <h5 class="card-title">Meditation</h5>
-                      <p class="card-text">Practice mindfulness and meditation to reduce stress and improve your mental
-                        clarity.</p>
+                      <p class="card-text">Practice mindfulness and meditation to reduce stress and improve your mental clarity.</p>
                       <a href="https://www.example.com/meditation-center" class="btn btn-primary">Find a Center</a>
                     </div>
                   </div>
@@ -161,7 +164,7 @@
                     </div>
                   </div>
                 </div>
-                <div class="col-md-5 col-xl-3>
+                <div class="col-md-6 col-xl-3">
                   <div class="card">
                     <img src="assets/images/running.avif" class="card-img-top" alt="Running">
                     <div class="card-body">
@@ -181,7 +184,7 @@
                     </div>
                   </div>
                 </div>
-                <div class="col-md-6 col-xl-3>
+                <div class="col-md-6 col-xl-3">
                   <div class="card">
                     <img src="assets/images/cycling.webp" class="card-img-top" alt="Cycling">
                     <div class="card-body">
@@ -195,7 +198,7 @@
             </div>
             <div class="carousel-item">
               <div class="row">
-                <div class="col-md-6 col-xl-3>
+                <div class="col-md-6 col-xl-3">
                   <div class="card">
                     <img src="assets/images/hiking.avif" class="card-img-top" alt="Hiking">
                     <div class="card-body">
@@ -282,11 +285,13 @@
               </div>
             </div>
           </div>
-
-          <button class="carousel-control-prev" type="button" data-bs-target="#mentalHealthCarousel"
-            data-bs-slide="prev">
+          <button class="carousel-control-prev" type="button" data-bs-target="#mentalHealthCarousel" data-bs-slide="prev">
             <span class="carousel-control-prev-icon" aria-hidden="true"></span>
             <span class="visually-hidden">Previous</span>
+          </button>
+          <button class="carousel-control-next" type="button" data-bs-target="#mentalHealthCarousel" data-bs-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Next</span>
           </button>
         </div>
       </section>
@@ -297,6 +302,7 @@
             <details>
               <summary>What is ClearSpace?</summary>
               <p>ClearSpace is a platform that helps you to clear your head space, boosting mood and providing support with mental health.</p>
+              <p></p>
             </details>
             <details>
               <summary>How can I get support in an emergency?</summary>
@@ -315,8 +321,25 @@
         
       </section>
     </div>
-
+    
   </main>
+
+  <footer>
+    <ul id="social-networks">
+        <li><a href="https://www.facebook.com" target="_blank" rel="noopener" aria-label="Visit our facebook page (opens in a new tab)"><i class="fa-brands fa-facebook"></i></a></li>
+        <li><a href="https://www.twitter.com" target="_blank" rel="noopener" aria-label="Visit our twitter page (opens in a new tab)"><i class="fa-brands fa-x-twitter"></i></a></li>
+        <li><a href="https://www.youtube.com" target="_blank" rel="noopener" aria-label="Visit our youtube page (opens in a new tab)"><i class="fa-brands fa-youtube"></i></a></li>
+        <li><a href="https://www.instagram.com" target="_blank" rel="noopener" aria-label="Visit our instagram page (opens in a new tab)"><i class="fa-brands fa-instagram"></i></a></li>
+    </ul>
+  </footer>
+   
+  <!-- Font Awesome -->
+  <script src="https://kit.fontawesome.com/302d05e24e.js" crossorigin="anonymous"></script>
+
+  <!-- Bootstrap JS -->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-5Z5v0Uz7rZ6bq0j6j5Bp8r5Q
+
 </body>
 
 </html>

@@ -16,6 +16,7 @@ h1 {
 
 h2 {
     color: #5F9EA0; /* Cadet Blue */
+    text-shadow: black 2px 2px 2px;
 }
 
 h3 {
@@ -50,42 +51,58 @@ h6 {
 
 .hero-text {
     text-align: center;
-    color: #e2d482; /* Medium Aquamarine */
+    color: #66CDAA; /* Medium Aquamarine */
     font-size: 1.5em;
     font-weight: bold;
     text-shadow: black 2px 2px 2px;
 
 }
 
-#features {
-    background: #f8ebbf;
+#Resources {
+    background: #66CDAA;
     margin: 60px 0;
     padding: 0 40px;
 }
 
-#features .card {
+#Resources .card {
     min-height: 450px;
 }
 
-#features .card img {
+#Resources .card img {
     height: 175px;
 }
 
-#Resources img {
+#Contact img {
     height: 100px;
     width: 100px;
     border-radius: 50%;
+    display: flex;
+    align-self: center;
 }
 
 .faq details {
     margin-bottom: 1rem;
   }
 
-  .faq summary {
+.faq summary {
     font-weight: bold;
     cursor: pointer;
   }
 
-  .faq p {
+.faq p {
     margin: 0.5rem 0 0 1rem;
   }
+
+#social-networks {
+    text-align: center;
+    padding: 20px 0;
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+}
+
+#social-networks i {
+    font-size: 160%;
+    padding: 5%;
+    color: #3a3a3a;
+}  
