@@ -27,7 +27,7 @@ Used Iconify to generate the icon
 
 <h3> Testimonials <h3>
 
-
+<h3> Sign up Page <h3>
 
 <h2>Instances of AI Use:</h2>
 <li>ChatGPT for User Stories, Acceptance Criteria and Task List</li>
