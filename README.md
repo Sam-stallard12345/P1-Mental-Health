@@ -6,6 +6,8 @@ This is my first independent project as part of the Code Institute 16 week bookc
 
 By providing accessible, beginner-friendly information on mental health and creating a welcoming webpage we can direct users toward our CTA: Sign up.
 
+![alt text](assets/images/Screenshot%20from%202024-11-12%2016-40-23.png)
+
 ## Contents
 
 1. [Introduction](#p1-mental-health)
@@ -35,7 +37,7 @@ Site Owner’s Goal: The site owner wants to create a welcoming webpage that pro
  Used media queries in CSS to create a responsive layout.
 Test and adapt the design for various breakpoints (e.g. mobile, tablet, desktop).
 
-<img src="assets/images/Screenshot from 2024-11-12 14-05-24.png">
+
  
 <h3> Color Scheme </h3>#
 
@@ -61,7 +63,6 @@ and "section" and "blockquote". Added placeholder testimonials styled with CSS (
 <h3> Sign up Page </h3>
 The Sign Up page includes a form where users can enter their details to create an account. The form captures essential information such as name, email, and password. Additionally, an embedded iframe is used to direct user to a wellness centre nearby they can use their memberships for discounts with.
 
-<img src="assets/images/Screenshot from 2024-11-12 14-08-14.png.png">
 
 <h3> Thank You Page </h3>
 The thank you page reverts the user back to the homepage and includes an inviting image.
