@@ -39,7 +39,7 @@ Created an Articles section with a grid or list layout of articles (e.g., title,
 and. Styled with CSS for a clean, organized look and ensured text content is easy to read with sufficient contrast.
 
 <h3> Testimonials <h3>
-Create a Testimonials section using
+Created a Testimonials section using
 and "section" and "blockquote". Added placeholder testimonials styled with CSS (e.g., card layout or sliders). 
 
 <h3> Sign up Page <h3>
@@ -49,7 +49,7 @@ The Sign Up page includes a form where users can enter their details to create a
 
 <h3> Thank You Page <h3>
 
-<h3> Validated with: </h3>#
+<h3> Validated with: </h3>
 <li> https://validator.w3.org/nu/ </li>
 <li> https://jigsaw.w3.org/css-validator/ </li>
 
@@ -64,12 +64,12 @@ The Sign Up page includes a form where users can enter their details to create a
 
 
 <h2> Known Bugs </h2>
-- **Responsive Design Issues**: Initially, the layout was not responsive on smaller screens. This was fixed by adjusting the media queries and ensuring all elements scaled properly.
-- **Form Validation Errors**: The sign-up form was not validating user inputs correctly. This was resolved by adding proper HTML5 validation attributes and JavaScript checks.
-- **Broken Links**: Some internal links were broken due to incorrect file paths. This was corrected by updating the paths to match the project structure.
-- **CSS Styling Conflicts**: There were conflicts between custom CSS and Bootstrap classes. This was fixed by using more specific selectors and avoiding overrides of Bootstrap styles.
-- **Image Loading Issues**: Some images were not loading due to incorrect file paths or missing files. This was resolved by verifying the paths and ensuring all images were in the correct directory.
-- **Accessibility Problems**: The initial design did not meet WCAG standards. This was addressed by improving color contrast, adding alt text to images, and ensuring keyboard navigability.
+<li> Responsive Design Issues: Initially, the layout was not responsive on smaller screens. This was fixed by adjusting the media queries and ensuring all elements scaled properly.</li>
+<li> Form Validation Errors: The sign-up form was not validating user inputs correctly. This was resolved by adding proper HTML5 validation attributes and JavaScript checks.</li>
+<li> Broken Links: Some internal links were broken due to incorrect file paths. This was corrected by updating the paths to match the project structure.</li>
+<li> CSS Styling Conflicts: There were conflicts between custom CSS and Bootstrap classes. This was fixed by using more specific selectors and avoiding overrides of Bootstrap styles.</li>
+<li> Image Loading Issues: Some images were not loading due to incorrect file paths or missing files. This was resolved by verifying the paths and ensuring all images were in the correct directory.</li>
+<li> Accessibility Problems: The initial design did not meet WCAG standards. This was addressed by improving color contrast, adding alt text to images, and ensuring keyboard navigability.</li>
 
 <h2> Future Feautures </h2>
 <li> Make FAQ section interactive</li>
