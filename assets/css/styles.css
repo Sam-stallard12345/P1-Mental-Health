@@ -1,4 +1,12 @@
+/* Google Fonts */
 @import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&display=swap');
+
+/* Global Styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
 
 h1, h2, h3, h4, h5, h6 {
     font-family: 'Merriweather', serif;
@@ -35,6 +43,8 @@ h6 {
     color: #B0E0E6; /* Powder Blue */
 }
 
+
+/* Hero Section */
 #hero {
     background: url('../images/clearspace_hero.jpeg') no-repeat center center/ 90%;
     height: 50vh;
@@ -58,6 +68,7 @@ h6 {
 
 }
 
+/* Resources Section */
 #Resources {
     background: #66CDAA;
     margin: 60px 0;
@@ -72,6 +83,7 @@ h6 {
     height: 175px;
 }
 
+/* Contact Section */
 #Contact img {
     height: 100px;
     width: 100px;
@@ -80,6 +92,12 @@ h6 {
     align-self: center;
 }
 
+/* Testimonials Section */
+.testimonial {
+    min-height: 224px;
+}
+
+/* FAQ Section */
 .faq details {
     margin-bottom: 1rem;
   }
