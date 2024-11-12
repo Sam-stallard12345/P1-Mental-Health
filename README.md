@@ -19,7 +19,7 @@ Site Owner’s Goal: The site owner wants to create a welcoming webpage that pro
  Used media queries in CSS to create a responsive layout.
 Test and adapt the design for various breakpoints (e.g. mobile, tablet, desktop).
 
-<img src="assets/images/Screenshot from 2024-11-12 10-00-33.png">
+<img src="assets/images/Screenshot from 2024-11-12 14-05-24.png">
  
 <h3> Color Scheme </h3>#
 
@@ -31,7 +31,7 @@ Used Iconify to generate the icon
 <h3> Hero Image and Tagline </h3>
 
 Hero Section with Positive Messaging: A Bootstrap Jumbotron with an encouraging message about mental health, using a calming colour scheme and a simple background image.
-<img src="assets/images/Screenshot from 2024-11-11 10-01-26.png">
+
 
 <h3> Articles and Resources Section<h3>
 
@@ -45,7 +45,7 @@ and "section" and "blockquote". Added placeholder testimonials styled with CSS (
 <h3> Sign up Page <h3>
 The Sign Up page includes a form where users can enter their details to create an account. The form captures essential information such as name, email, and password. Additionally, an embedded iframe is used to direct user to a wellness centre nearby they can use their memberships for discounts with.
 
-<img src="assets/images/Screenshot from 2024-11-12 10-16-16.png">
+<img src="assets/images/Screenshot from 2024-11-12 14-08-14.png.png">
 
 <h3> Thank You Page <h3>
 
