@@ -8,6 +8,10 @@ By providing accessible, beginner-friendly information on mental health and crea
 
 ![alt text](image.png)
 
+External User’s Goal: The user seeks accessible, beginner-friendly information on mental health, including how to recognize common issues and manage stress, presented in a supportive and organised layout.
+
+Site Owner’s Goal: The site owner wants to create a welcoming webpage that provides basic mental health information using a clean and supportive design. The focus is on using HTML and CSS with Bootstrap to create a calming and well-organised user experience.
+
 <h2> Features </h2>
 
 <h3> Homepage Design <h3>
@@ -26,6 +30,7 @@ Used Iconify to generate the icon
 
 <h3> Hero Image and Tagline </h3>
 
+Hero Section with Positive Messaging: A Bootstrap Jumbotron with an encouraging message about mental health, using a calming colour scheme and a simple background image.
 <img src="assets/images/Screenshot from 2024-11-11 10-01-26.png">
 
 <h3> Articles and Resources Section<h3>
