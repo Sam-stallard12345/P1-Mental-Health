@@ -6,6 +6,21 @@ This is my first independent project as part of the Code Institute 16 week bookc
 
 By providing accessible, beginner-friendly information on mental health and creating a welcoming webpage we can direct users toward our CTA: Sign up.
 
+## Contents
+
+1. [Introduction](#p1-mental-health)
+2. [Features](#features)
+    - [Homepage Design](#homepage-design)
+    - [Color Scheme](#color-scheme)
+    - [Hero Image and Tagline](#hero-image-and-tagline)
+    - [Articles and Resources Section](#articles-and-resources-section)
+    - [Testimonials](#testimonials)
+    - [Sign up Page](#sign-up-page)
+    - [Thank You Page](#thank-you-page)
+    - [Validated with](#validated-with)
+3. [Resource Credit](#resource-credit)
+4. [Known Bugs](#known-bugs)
+5. [Future Features](#future-features)
 ![alt text](image.png)
 
 External User’s Goal: The user seeks accessible, beginner-friendly information on mental health, including how to recognize common issues and manage stress, presented in a supportive and organised layout.
