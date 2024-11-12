@@ -33,21 +33,22 @@ Used Iconify to generate the icon
 Hero Section with Positive Messaging: A Bootstrap Jumbotron with an encouraging message about mental health, using a calming colour scheme and a simple background image.
 
 
-<h3> Articles and Resources Section<h3>
+<h3> Articles and Resources Section</h3>
 
 Created an Articles section with a grid or list layout of articles (e.g., title, short description, and “Read More” link). Semantic HTML elements like
 and. Styled with CSS for a clean, organized look and ensured text content is easy to read with sufficient contrast.
 
-<h3> Testimonials <h3>
+<h3> Testimonials </h3>
 Created a Testimonials section using
 and "section" and "blockquote". Added placeholder testimonials styled with CSS (e.g., card layout or sliders). 
 
-<h3> Sign up Page <h3>
+<h3> Sign up Page </h3>
 The Sign Up page includes a form where users can enter their details to create an account. The form captures essential information such as name, email, and password. Additionally, an embedded iframe is used to direct user to a wellness centre nearby they can use their memberships for discounts with.
 
 <img src="assets/images/Screenshot from 2024-11-12 14-08-14.png.png">
 
-<h3> Thank You Page <h3>
+<h3> Thank You Page </h3>
+The thank you page reverts the user back to the homepage and includes an inviting image.
 
 <h3> Validated with: </h3>
 <li> https://validator.w3.org/nu/ </li>
