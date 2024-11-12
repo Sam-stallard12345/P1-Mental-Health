@@ -11,10 +11,15 @@ By providing accessible, beginner-friendly information on mental health and crea
 <h2> Features </h2>
 
 <h3> Homepage Design <h3>
+
+ Used media queries in CSS to create a responsive layout.
+Test and adapt the design for various breakpoints (e.g. mobile, tablet, desktop).
+
+<img src="assets/images/Screenshot from 2024-11-12 10-00-33.png">
  
 <h3> Color Scheme </h3>#
 
- For the color I chose a calming color palette suitable for mental health (e.g., pastels, blues, and greens).Ensured text met WCAG contrast standards with tools like Contrast Checker and added options for high-contrast themes (optional advanced feature).
+ For the color I chose a calming color palette suitable for mental health (e.g., pastels, blues, and greens).Ensured text met WCAG contrast standards with tools like Contrast Checker.
 
 Used Iconify to generate the icon
 
@@ -26,6 +31,8 @@ Used Iconify to generate the icon
 <h3> Articles and Resources Section<h3>
 
 <h3> Testimonials <h3>
+Create a Testimonials section using
+and <section> and <blockquote>. Added placeholder testimonials styled with CSS (e.g., card layout or sliders). 
 
 <h3> Sign up Page <h3>
 
@@ -33,9 +40,11 @@ Used Iconify to generate the icon
 
 <h3> Thank You Page <h3>
 
+<h3> Validated with: </h3>#
+<li> https://validator.w3.org/nu/ <li>
+<li> https://jigsaw.w3.org/css-validator/ <li>
 
-
-<h2>Instances of AI Use:</h2>
-<li>ChatGPT for User Stories, Acceptance Criteria and Task List</li>
-
-<li>Copilot for Image Generation</li>
+<h2> Instances of AI Use: </h2>
+<li> ChatGPT for User Stories, Acceptance Criteria and Task List</li>
+<li> Copilot for Image Generation</li>
+<li> Copilot for code generation</li>
