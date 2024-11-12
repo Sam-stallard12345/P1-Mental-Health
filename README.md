@@ -40,7 +40,7 @@ and. Styled with CSS for a clean, organized look and ensured text content is eas
 
 <h3> Testimonials <h3>
 Create a Testimonials section using
-and "<section>" and "<blockquote>". Added placeholder testimonials styled with CSS (e.g., card layout or sliders). 
+and "section" and "blockquote". Added placeholder testimonials styled with CSS (e.g., card layout or sliders). 
 
 <h3> Sign up Page <h3>
 The Sign Up page includes a form where users can enter their details to create an account. The form captures essential information such as name, email, and password. Additionally, an embedded iframe is used to direct user to a wellness centre nearby they can use their memberships for discounts with.
