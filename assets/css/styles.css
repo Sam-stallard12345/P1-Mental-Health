@@ -18,19 +18,19 @@ body {
     font-family: "Montserrat", sans-serif;
 }
 
-h1,
-h2 {
-
+h1 {
     color: #412301; /* Brown */
     text-shadow: black 2px 2px 2px;
+    
 }
 
+h2,
 h3,
 h4,
 h5,
 h6 {
-    color: #66E4fd; /* Cadet Blue */
-    
+    color: #66E4fd; 
+    text-shadow: black 1px 1px 1px;
 }
 
 
@@ -42,7 +42,7 @@ h6 {
 
 .hero-title {
     text-align: center;
-    color: #4682B4; /* Medium Aquamarine */
+    color: #4682B4; /* Cadet Blue */
     font-size: 3em;
     font-weight: bold;
     text-shadow: black 2px 2px 2px;
@@ -58,25 +58,10 @@ h6 {
 
 }
 
-/* Resources Section */
-#Resources {
-    background: #66CDAA;
-    margin: 60px 0;
-    padding: 0 40px;
-}
-
-#Resources .card {
-    min-height: 450px;
-}
-
-#Resources .card img {
-    height: 175px;
-}
-
 /* Contact Section */
 #Contact {
     background: #66CDAA;
-    
+
 }
 
 #Contact img {
@@ -87,10 +72,23 @@ h6 {
     align-self: center;
 }
 
-/* Testimonials Section */
-.testimonial {
-    min-height: 224px;
+/* Resources Section */
+#Resources {
+    background: #66CDAA;
+    margin: 60px 0;
+    padding: 0 40px;
 }
+
+#Resources .card img {
+    height: 175px;
+}
+
+/* Testimonials Section */
+#testimonials{
+    background: #66CDAA;
+    padding: 40px 0;
+}
+
 
 /* FAQ Section */
 .faq details {
@@ -119,3 +117,50 @@ h6 {
     padding: 5%;
     color: #3a3a3a;
 }  
+
+/* Media Queries */
+@media screen and (min-width: 344px) {
+    #Resources .card {
+        min-height: 375px;
+    }
+    
+   
+}
+
+@media screen and (min-width: 768px) {
+    #Resources .card {
+        min-height: 391px;
+    }
+    
+}
+
+@media screen and (min-width: 822px) {
+    .testimonial {
+        max-height: 185px;
+    }
+    
+}
+
+@media screen and (min-width: 1024px) {
+    .testimonial {
+        max-height: 175px;
+    }
+    
+}
+
+@media screen and (min-width: 1200px) {
+    #Resources .card {
+        min-height: 423px;
+    }
+}
+
+@media screen and (min-width: 1400px) {
+    .testimonial {
+        min-height: 175px;
+    }
+    
+    #Resources .card {
+        width: 294px;
+    }
+    
+}
