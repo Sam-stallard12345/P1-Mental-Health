@@ -29,7 +29,11 @@ Used Iconify to generate the icon
 
 <h3> Sign up Page <h3>
 
+<img src="assets/images/Screenshot from 2024-11-12 10-16-16.png">
+
 <h3> Thank You Page <h3>
+
+
 
 <h2>Instances of AI Use:</h2>
 <li>ChatGPT for User Stories, Acceptance Criteria and Task List</li>
