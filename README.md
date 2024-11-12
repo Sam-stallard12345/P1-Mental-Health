@@ -21,7 +21,8 @@ By providing accessible, beginner-friendly information on mental health and crea
 3. [Resource Credit](#resource-credit)
 4. [Known Bugs](#known-bugs)
 5. [Future Features](#future-features)
-![alt text](image.png)
+
+![alt text](assets/images/image.png)
 
 External User’s Goal: The user seeks accessible, beginner-friendly information on mental health, including how to recognize common issues and manage stress, presented in a supportive and organised layout.
 
@@ -29,7 +30,7 @@ Site Owner’s Goal: The site owner wants to create a welcoming webpage that pro
 
 <h2> Features </h2>
 
-<h3> Homepage Design <h3>
+<h3> Homepage Design </h3>
 
  Used media queries in CSS to create a responsive layout.
 Test and adapt the design for various breakpoints (e.g. mobile, tablet, desktop).
