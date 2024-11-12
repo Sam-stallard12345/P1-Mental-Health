@@ -63,6 +63,15 @@ The Sign Up page includes a form where users can enter their details to create a
 <li> https://www.diffchecker.com/text-compare/ </li>
 <li> fontawesome.com </li>
 
+
+<h2> Known Bugs </h2>
+- **Responsive Design Issues**: Initially, the layout was not responsive on smaller screens. This was fixed by adjusting the media queries and ensuring all elements scaled properly.
+- **Form Validation Errors**: The sign-up form was not validating user inputs correctly. This was resolved by adding proper HTML5 validation attributes and JavaScript checks.
+- **Broken Links**: Some internal links were broken due to incorrect file paths. This was corrected by updating the paths to match the project structure.
+- **CSS Styling Conflicts**: There were conflicts between custom CSS and Bootstrap classes. This was fixed by using more specific selectors and avoiding overrides of Bootstrap styles.
+- **Image Loading Issues**: Some images were not loading due to incorrect file paths or missing files. This was resolved by verifying the paths and ensuring all images were in the correct directory.
+- **Accessibility Problems**: The initial design did not meet WCAG standards. This was addressed by improving color contrast, adding alt text to images, and ensuring keyboard navigability.
+
 <h2> Future Feautures </h2>
 <li> Make FAQ section interactive</li>
 <li> Add some articles to a blog page </li>
