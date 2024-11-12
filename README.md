@@ -54,7 +54,15 @@ The Sign Up page includes a form where users can enter their details to create a
 <li> https://validator.w3.org/nu/ <li>
 <li> https://jigsaw.w3.org/css-validator/ <li>
 
-<h2> Instances of AI Use: </h2>
+<h2> Resource Credit </h2>
 <li> ChatGPT for User Stories, Acceptance Criteria and Task List</li>
-<li> Copilot for Image Generation</li>
+<li> Copilot for Image Generation</li> 
 <li> Copilot for code generation</li>
+<li> https://jigsaw.w3.org/css-validator/ </li>
+<li> https://validator.w3.org/#validate_by_input </li>
+<li> https://www.diffchecker.com/text-compare/ </li>
+<li> fontawesome.com </li>
+
+<h2> Future Feautures </h2>
+<li> Make FAQ section interactive</li>
+<li> Add some articles to a blog page </li>
