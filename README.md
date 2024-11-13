@@ -75,6 +75,7 @@ The Sign Up page includes a form where users can enter their details to create a
 <h3> Thank You Page </h3>
 The thank you page reverts the user back to the homepage and includes an inviting image.
 
+<h2> Manual Testing </h2>
 <h3> Validated with: </h3>
 <li> https://validator.w3.org/nu/ </li>
 <li> https://jigsaw.w3.org/css-validator/ </li>

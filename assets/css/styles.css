@@ -67,15 +67,14 @@ h6 {
 /* Contact Section */
 #Contact {
     background: #66CDAA;
-
+    line-height: 30PX;
 }
 
-#Contact img {
+#Contact .col-xl-4 img {
     height: 100px;
     width: 100px;
     border-radius: 50%;
-    display: flex;
-    align-self: center;
+    
 }
 
 /* Resources Section */
