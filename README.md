@@ -21,9 +21,10 @@ By providing accessible, beginner-friendly information on mental health and crea
     - [Sign up Page](#sign-up-page)
     - [Thank You Page](#thank-you-page)
     - [Validated with](#validated-with)
-3. [Resource Credit](#resource-credit)
-4. [Known Bugs](#known-bugs)
-5. [Future Features](#future-features)
+4. [Technology Used](#technology)
+5. [Resource Credit](#resource-credit)
+6. [Known Bugs](#known-bugs)
+7. [Future Features](#future-features)
 
 <h2> User Experience Design </h2>
 
@@ -130,6 +131,12 @@ The Sign Up page includes a form where users can enter their details to create a
 
 <h3> Thank You Page </h3>
 The thank you page reverts the user back to the homepage and includes an inviting image.
+
+<h2> Technology Used </h2>
+<li>Bootstrap</li>
+<li>HTML</li>
+<li>CSS</li>
+<li>Google Fonts</li>
 
 <h2> Manual Testing </h2>
 <h3> Validated with: </h3>
