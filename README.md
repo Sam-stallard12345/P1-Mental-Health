@@ -80,7 +80,6 @@ Site Owner’s Goal: The site owner wants to create a welcoming webpage that pro
 <h2> Features </h2>
 
 <h3> Homepage Design </h3>
-<img src="assets/images/Screenshot%20from%202024-11-12%2016-40-23.png">
 
  Designed a clean, visually appealing homepage with:
 A calming hero section (e.g., soothing background image or gradient).
@@ -94,6 +93,8 @@ Style the homepage using CSS for layout and aesthetic
 
  Used media queries in CSS and boostrap to create a responsive layout.
 Test and adapt the design for various breakpoints (e.g. mobile, tablet, desktop).
+
+<img src="assets/images/Screenshot%20from%202024-11-12%2016-40-23.png">
 
 <h3> Color Scheme </h3>
 
