@@ -6,12 +6,13 @@ This is my first independent project as part of the Code Institute 16 week bookc
 
 By providing accessible, beginner-friendly information on mental health and creating a welcoming webpage we can direct users toward our CTA: Sign up.
 
-![alt text](assets/images/Screenshot%20from%202024-11-12%2016-40-23.png)
+
 
 ## Contents
 
 1. [Introduction](#p1-mental-health)
-2. [Features](#features)
+2. [User Experience Design](#UX)
+3. [Features](#features)
     - [Homepage Design](#homepage-design)
     - [Color Scheme](#color-scheme)
     - [Hero Image and Tagline](#hero-image-and-tagline)
@@ -24,8 +25,53 @@ By providing accessible, beginner-friendly information on mental health and crea
 4. [Known Bugs](#known-bugs)
 5. [Future Features](#future-features)
 
+<h2> User Experience Design </h2>
 
-<h2> Project Board </h2>
+<h3> User Stories </h3>
+1. User Story: Homepage Design
+
+As a first-time visitor, 
+I want to see a welcoming and visually calming homepage, 
+so that I can feel encouraged to explore the website further.
+
+2. User Story: Articles and Resources Section
+
+As a user seeking mental health resources, 
+I want to browse a well-organized articles section, 
+so that I can easily find information relevant to my needs.
+
+3. User Story: Responsive Design
+
+As a mobile user, 
+I want the website to be fully responsive, 
+so that I can access content easily from any device.
+
+4. User Story: Testimonials or Success Stories
+
+As someone looking for support, 
+I want to read success stories from others, 
+so that I can feel inspired and hopeful about seeking help.
+
+5. User Story: Contact and Support Options
+
+As a visitor in need of help, 
+I want a clearly visible "Contact Support" section, 
+so that I can quickly find ways to reach out for assistance.
+
+6. User Story: Color Scheme for Accessibility
+
+As a user with visual sensitivities, 
+I want the website to have a calming and accessible color scheme, 
+so that I can navigate comfortably without strain.
+
+7. User Story: Interactive FAQ Section
+
+As a user with specific questions about mental health, 
+I want an interactive FAQ section with collapsible answers, 
+so that I can quickly find the information I need.
+
+
+<h3> Project Board </h3>
 ![Project Board](assets/images/image.png)
 
 External User’s Goal: The user seeks accessible, beginner-friendly information on mental health, including how to recognize common issues and manage stress, presented in a supportive and organised layout.
@@ -35,6 +81,7 @@ Site Owner’s Goal: The site owner wants to create a welcoming webpage that pro
 <h2> Features </h2>
 
 <h3> Homepage Design </h3>
+![alt text](assets/images/Screenshot%20from%202024-11-12%2016-40-23.png)
 
  Designed a clean, visually appealing homepage with:
 A calming hero section (e.g., soothing background image or gradient).
@@ -59,7 +106,7 @@ Used Iconify to generate the icon
 <h3> Hero Image and Tagline </h3>
 
 Hero Section with Positive Messaging: A Bootstrap Jumbotron with an encouraging message about mental health, using a calming colour scheme and a simple background image.
-
+![Hero Section](assets/images/Screenshot%20from%202024-11-13%2010-24-08.png)
 
 <h3> Articles and Resources Section</h3>
 
@@ -72,7 +119,7 @@ and "section" and "blockquote". Added placeholder testimonials styled with CSS (
 
 <h3> Sign up Page </h3>
 The Sign Up page includes a form where users can enter their details to create an account. The form captures essential information such as name, email, and password. Additionally, an embedded iframe is used to direct user to a wellness centre nearby they can use their memberships for discounts with.
-
+![Sign up Page](assets/images/Screenshot%20from%202024-11-12%2014-08-14.png)
 
 <h3> Thank You Page </h3>
 The thank you page reverts the user back to the homepage and includes an inviting image.
@@ -82,6 +129,8 @@ The thank you page reverts the user back to the homepage and includes an invitin
 <li> https://validator.w3.org/nu/ </li>
 <li> https://jigsaw.w3.org/css-validator/ </li>
 <li> WCAG Color contrast checker </li>
+<li> Lighthouse: Performance: 46, accessibility: 94, Best Practices: 93 <li>
+![Performance](assets/images/Screenshot%20from%202024-11-13%2009-12-30.png)
 
 <h2> Resource Credit </h2>
 <li> ChatGPT for User Stories, Acceptance Criteria and Task List</li>

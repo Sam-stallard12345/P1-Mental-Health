@@ -43,13 +43,13 @@ h6 {
 /* Hero Section */
 #hero {
     background: url('../images/clearspace_hero.jpeg') no-repeat center center/ 90%;
-    height: 50vh;
+    height: 60vh;
 }
 
 .hero-title {
     text-align: center;
-    color: #412301; 
-    font-size: 4em;
+    color: #66CDAA; 
+    font-size: 5rem;
     font-weight: bold;
     text-shadow: black 2px 2px 2px;
     
@@ -57,11 +57,11 @@ h6 {
 
 .hero-text {
     text-align: center;
-    color: #66CDAA; /* Medium Aquamarine */
+    color: #03f8f8; 
     font-size: 1.5em;
     font-weight: bold;
     text-shadow: black 2px 2px 2px;
-
+    background-color: #412301d2;
 }
 
 /* Contact Section */
@@ -129,6 +129,10 @@ h6 {
         min-height: 375px;
     }
     
+    .hero-text {
+        max-width: 85%;
+        
+    }
    
 }
 
