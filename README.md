@@ -81,7 +81,7 @@ Site Owner’s Goal: The site owner wants to create a welcoming webpage that pro
 <h2> Features </h2>
 
 <h3> Homepage Design </h3>
-![alt text](assets/images/Screenshot%20from%202024-11-12%2016-40-23.png)
+![Homepage Design](assets/images/Screenshot%20from%202024-11-12%2016-40-23.png)
 
  Designed a clean, visually appealing homepage with:
 A calming hero section (e.g., soothing background image or gradient).
@@ -100,7 +100,6 @@ Test and adapt the design for various breakpoints (e.g. mobile, tablet, desktop)
 
  For the color scheme I chose a calming color palette suitable for mental health (e.g., pastels, blues, and greens).Ensured text met WCAG contrast standards with tools like Contrast Checker.
 
-Used Iconify to generate the icon
 
 
 <h3> Hero Image and Tagline </h3>
@@ -140,6 +139,7 @@ The thank you page reverts the user back to the homepage and includes an invitin
 <li> https://validator.w3.org/#validate_by_input </li>
 <li> https://www.diffchecker.com/text-compare/ </li>
 <li> https://www.fontawesome.com </li>
+<li> Used Iconify to generate the icon </li>
 
 
 <h2> Known Bugs </h2>
