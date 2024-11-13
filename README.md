@@ -81,7 +81,7 @@ Site Owner’s Goal: The site owner wants to create a welcoming webpage that pro
 <h2> Features </h2>
 
 <h3> Homepage Design </h3>
-![Homepage Design](assets/images/Screenshot%20from%202024-11-12%2016-40-23.png)
+<img src="assets/images/Screenshot%20from%202024-11-12%2016-40-23.png">
 
  Designed a clean, visually appealing homepage with:
 A calming hero section (e.g., soothing background image or gradient).
@@ -93,7 +93,7 @@ Style the homepage using CSS for layout and aesthetic
  
 <h3> Responsive Design </h3>
 
- Used media queries in CSS to create a responsive layout.
+ Used media queries in CSS and boostrap to create a responsive layout.
 Test and adapt the design for various breakpoints (e.g. mobile, tablet, desktop).
 
 <h3> Color Scheme </h3>
@@ -118,7 +118,7 @@ and "section" and "blockquote". Added placeholder testimonials styled with CSS (
 
 <h3> Sign up Page </h3>
 The Sign Up page includes a form where users can enter their details to create an account. The form captures essential information such as name, email, and password. Additionally, an embedded iframe is used to direct user to a wellness centre nearby they can use their memberships for discounts with.
-![Sign up Page](assets/images/Screenshot%20from%202024-11-12%2014-08-14.png)
+<img src="assets/images/Screenshot%20from%202024-11-12%2014-08-14.png">
 
 <h3> Thank You Page </h3>
 The thank you page reverts the user back to the homepage and includes an inviting image.
@@ -128,8 +128,9 @@ The thank you page reverts the user back to the homepage and includes an invitin
 <li> https://validator.w3.org/nu/ </li>
 <li> https://jigsaw.w3.org/css-validator/ </li>
 <li> WCAG Color contrast checker </li>
-<li> Lighthouse: Performance: 46, accessibility: 94, Best Practices: 93 <li>
-![Performance](assets/images/Screenshot%20from%202024-11-13%2009-12-30.png)
+<li> Lighthouse: Performance: 46-73, accessibility: 94, Best Practices: 93 <li>
+<img src="assets/images/Screenshot%20from%202024-11-13%2009-12-30.png">
+<img src="assets/images/Screenshot from 2024-11-13 11-00-01.png">
 
 <h2> Resource Credit </h2>
 <li> ChatGPT for User Stories, Acceptance Criteria and Task List</li>
@@ -141,6 +142,8 @@ The thank you page reverts the user back to the homepage and includes an invitin
 <li> https://www.fontawesome.com </li>
 <li> Used Iconify to generate the icon </li>
 
+<h2> Deployment </h2>
+Used github for deploying the project and using lighthouse.
 
 <h2> Known Bugs </h2>
 <li> Responsive Design Issues: Initially, the layout was not responsive on smaller screens. This was fixed by adjusting the media queries and ensuring all elements scaled properly.</li>
