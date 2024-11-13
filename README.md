@@ -24,7 +24,9 @@ By providing accessible, beginner-friendly information on mental health and crea
 4. [Known Bugs](#known-bugs)
 5. [Future Features](#future-features)
 
-![alt text](assets/images/image.png)
+
+<h2> Project Board </h2>
+![Project Board](assets/images/image.png)
 
 External User’s Goal: The user seeks accessible, beginner-friendly information on mental health, including how to recognize common issues and manage stress, presented in a supportive and organised layout.
 
@@ -79,6 +81,7 @@ The thank you page reverts the user back to the homepage and includes an invitin
 <h3> Validated with: </h3>
 <li> https://validator.w3.org/nu/ </li>
 <li> https://jigsaw.w3.org/css-validator/ </li>
+<li> WCAG Color contrast checker </li>
 
 <h2> Resource Credit </h2>
 <li> ChatGPT for User Stories, Acceptance Criteria and Task List</li>
