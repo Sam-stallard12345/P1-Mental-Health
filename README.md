@@ -85,8 +85,7 @@ Site Owner’s Goal: The site owner wants to create a welcoming webpage that pro
 A calming hero section (e.g., soothing background image or gradient).
 A clear navigation bar linking to key sections (e.g., resources, contact).
 A brief welcome message or mission statement.
-Use semantic HTML (e.g., , , ).
-Style the homepage using CSS for layout and aesthetic
+Used semantic HTML and styled the homepage using CSS for layout and aesthetic
 
  
 <h3> Responsive Design </h3>

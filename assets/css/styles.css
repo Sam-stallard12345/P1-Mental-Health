@@ -10,7 +10,7 @@
 
 h1, h2, h3, h4, h5, h6 {
     font-family: 'Merriweather', serif;
-    color: #2E8B57; /* Sea Green */
+    font-weight: 400;
 }
 
 body {
@@ -19,7 +19,7 @@ body {
 }
 
 h1 {
-    color: #412301; /* Brown */
+    color: #412301d2; /* Brown */
     text-shadow: black 2px 2px 2px;
     
 }
@@ -42,14 +42,14 @@ h6 {
 
 /* Hero Section */
 #hero {
-    background: url('../images/clearspace_hero.jpeg') no-repeat center center/ 90%;
-    height: 60vh;
+    background: url('../images/clearspace_hero.jpeg') no-repeat center center/ cover;
+    max-height: 60vh;
 }
 
 .hero-title {
     text-align: center;
     color: #66CDAA; 
-    font-size: 5rem;
+    font-size: 3em;
     font-weight: bold;
     text-shadow: black 2px 2px 2px;
     
@@ -120,7 +120,7 @@ h6 {
 #social-networks i {
     font-size: 160%;
     padding: 5%;
-    color: #3a3a3a;
+    color: #412301d2;
 }  
 
 /* Media Queries */
@@ -135,12 +135,24 @@ h6 {
     }
    
 }
+@media screen and (max-width: 344px) {
+    body {
+        min-width:100%;
+    }
+    
+    .navbar {
+        min-width: 100%;
+    }
+}
 
 @media screen and (min-width: 768px) {
     #Resources .card {
         min-height: 391px;
     }
     
+    .hero-title {
+        font-size: 4rem;
+    }
 }
 
 @media screen and (min-width: 822px) {
@@ -155,6 +167,9 @@ h6 {
         max-height: 175px;
     }
     
+    .hero-title {
+        font-size: 6rem;
+    }
 }
 
 @media screen and (min-width: 1200px) {
