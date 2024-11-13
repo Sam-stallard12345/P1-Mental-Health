@@ -108,7 +108,7 @@ Hero Section with Positive Messaging: A Bootstrap Jumbotron with an encouraging 
 
 <h3> Articles and Resources Section</h3>
 
-Created an Articles section with a grid or list layout of articles (e.g., title, short description, and “Read More” link). Semantic HTML elements like
+Created a Resources section with a 4 card grid layout which also acted as a carousel with 16 total cards. (e.g title, short description, and “Read More” link). Semantic HTML elements like
 and. Styled with CSS for a clean, organized look and ensured text content is easy to read with sufficient contrast.
 
 <h3> Contact and Support </h3>
@@ -116,9 +116,13 @@ Included details and contact information for three of the leading mental health 
 
 <h3> Testimonials and FAQ </h3>
 Created a Testimonials section using
-and "section" and "blockquote". Added placeholder testimonials styled with CSS (e.g., card layout or sliders). 
+and "section" and "blockquote". Added placeholder testimonials styled with CSS (e.g., card layout or sliders).
+
+As per the user story I included a FAQ section interactive by using semantic html such as details and summary.
 <img src="assets/images/Screenshot from 2024-11-13 11-05-35.png">
 
+<h3> Footer </h3>
+Included footer with 4 social media links which are clearly displayed and easily accessible.
 
 <h3> Sign up Page </h3>
 The Sign Up page includes a form where users can enter their details to create an account. The form captures essential information such as name, email, and password. Additionally, an embedded iframe is used to direct user to a wellness centre nearby they can use their memberships for discounts with.
