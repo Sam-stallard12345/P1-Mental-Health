@@ -72,7 +72,6 @@ so that I can quickly find the information I need.
 
 
 <h3> Project Board </h3>
-![Project Board](assets/images/image.png)
 
 External User’s Goal: The user seeks accessible, beginner-friendly information on mental health, including how to recognize common issues and manage stress, presented in a supportive and organised layout.
 
