@@ -34,14 +34,22 @@ Site Owner’s Goal: The site owner wants to create a welcoming webpage that pro
 
 <h3> Homepage Design </h3>
 
+ Designed a clean, visually appealing homepage with:
+A calming hero section (e.g., soothing background image or gradient).
+A clear navigation bar linking to key sections (e.g., resources, contact).
+A brief welcome message or mission statement.
+Use semantic HTML (e.g., , , ).
+Style the homepage using CSS for layout and aesthetic
+
+ 
+<h3> Responsive Design </h3>
+
  Used media queries in CSS to create a responsive layout.
 Test and adapt the design for various breakpoints (e.g. mobile, tablet, desktop).
 
+<h3> Color Scheme </h3>
 
- 
-<h3> Color Scheme </h3>#
-
- For the color I chose a calming color palette suitable for mental health (e.g., pastels, blues, and greens).Ensured text met WCAG contrast standards with tools like Contrast Checker.
+ For the color scheme I chose a calming color palette suitable for mental health (e.g., pastels, blues, and greens).Ensured text met WCAG contrast standards with tools like Contrast Checker.
 
 Used Iconify to generate the icon
 
