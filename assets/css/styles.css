@@ -73,7 +73,7 @@ h6 {
     background: #00497a;
 }   
 
-#hero .btn:hover {
+.btn:hover {
     background-color: #412301d2;
     color: #66CDAA;
 }
