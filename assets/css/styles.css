@@ -64,6 +64,11 @@ h6 {
     background-color: #412301d2;
 }
 
+.btn {
+    font-weight: bold;
+    background: #00497a;
+}   
+
 #hero .btn:hover {
     background-color: #412301d2;
     color: #66CDAA;
