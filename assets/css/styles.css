@@ -38,7 +38,12 @@ h6 {
     padding: 80px;
 }
 
-
+/* Navbar */
+.navbar {
+    position: fixed;
+    width: 100%;
+    z-index: 999;
+}
 
 /* Hero Section */
 #hero {
