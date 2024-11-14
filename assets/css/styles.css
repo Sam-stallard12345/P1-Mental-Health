@@ -64,6 +64,11 @@ h6 {
     background-color: #412301d2;
 }
 
+#hero .btn:hover {
+    background-color: #412301d2;
+    color: #66CDAA;
+}
+
 /* Contact Section */
 #Contact {
     background: #66CDAA;
